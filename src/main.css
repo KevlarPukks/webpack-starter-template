@@ -1,0 +1,12 @@
+div{
+font-family: Alef;
+}
+body {
+    background-color: cornsilk;
+    background-image: url("images/icon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+input{
+    color:red;
+}
